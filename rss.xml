@@ -4,7 +4,7 @@
         <description><![CDATA[BRUFEED - Award Winning Brütography Collective]]></description>
         <link>https://thegrid.ai/brufeed/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 15:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 15:29:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brufeed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/brufeed/10423b01-77fa-4e01-a636-71c9e2f4dcf2/index.html</link>
             <guid isPermaLink="false">10423b01-77fa-4e01-a636-71c9e2f4dcf2</guid>
             <pubDate>Mon, 15 Feb 2016 15:24:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c66d7cc-c762-4364-bb15-f431c03899ca.jpg">]]></description>
+            <link>https://thegrid.ai/brufeed/ab69c37f-9b61-415d-87ed-90bc67f1b0a9/index.html</link>
+            <guid isPermaLink="false">ab69c37f-9b61-415d-87ed-90bc67f1b0a9</guid>
+            <pubDate>Mon, 15 Feb 2016 15:26:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/brufeed/efacf372-18b2-472a-abd3-852680c1ede5/index.html</link>
             <guid isPermaLink="false">efacf372-18b2-472a-abd3-852680c1ede5</guid>
             <pubDate>Mon, 15 Feb 2016 15:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2fd2623-0947-468b-9f4d-0e6359bb8374.jpg">]]></description>
-            <link>https://thegrid.ai/brufeed/146734ce-fb2f-46c3-8ecb-e23f16f38ac3/index.html</link>
-            <guid isPermaLink="false">146734ce-fb2f-46c3-8ecb-e23f16f38ac3</guid>
-            <pubDate>Mon, 15 Feb 2016 15:05:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
