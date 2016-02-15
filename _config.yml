@@ -1,0 +1,28 @@
+name: BRUFEED
+favicon: null
+layout_spectrum: 0.4840759518556297
+typography_spectrum: 0.5885217841714621
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.09214644646272063
+  lightness: 0.7025158575270325
+  saturation: 0.07586510688997805
+  rhythmicContrast: 0.22925033466890454
+purpose: []
