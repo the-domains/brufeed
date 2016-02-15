@@ -4,8 +4,22 @@
         <description><![CDATA[Award Winning Brütography Collective]]></description>
         <link>https://thegrid.ai/brufeed/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 15:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 15:13:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brufeed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfaee94e-72af-44bc-bf68-92050b4f6257.jpg">]]></description>
+            <link>https://thegrid.ai/brufeed/038d8abf-2ba1-43ad-9f9a-75e555a98f5c/index.html</link>
+            <guid isPermaLink="false">038d8abf-2ba1-43ad-9f9a-75e555a98f5c</guid>
+            <pubDate>Mon, 15 Feb 2016 15:12:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc1884bc-b5a7-4763-a636-6c253ae2c71b.jpg">]]></description>
+            <link>https://thegrid.ai/brufeed/a46bfd74-4967-4b07-9754-cbc41af6cea0/index.html</link>
+            <guid isPermaLink="false">a46bfd74-4967-4b07-9754-cbc41af6cea0</guid>
+            <pubDate>Mon, 15 Feb 2016 15:10:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83cb6b52-97c9-41c4-a4da-d7650e13c099.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/brufeed/c07bf40c-dfef-4922-b548-be14f143f63b/index.html</link>
             <guid isPermaLink="false">c07bf40c-dfef-4922-b548-be14f143f63b</guid>
             <pubDate>Mon, 15 Feb 2016 14:56:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75f659ca-954c-45c6-89d0-4216c04a5840.jpg">]]></description>
-            <link>https://thegrid.ai/brufeed/74c004e9-8a58-4ab2-936c-9003ee5b05ab/index.html</link>
-            <guid isPermaLink="false">74c004e9-8a58-4ab2-936c-9003ee5b05ab</guid>
-            <pubDate>Mon, 15 Feb 2016 14:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/716a4632-7ad8-4bc2-acab-06d007cc386d.jpg">]]></description>
-            <link>https://thegrid.ai/brufeed/b0e10049-4362-490d-b87b-164298c96578/index.html</link>
-            <guid isPermaLink="false">b0e10049-4362-490d-b87b-164298c96578</guid>
-            <pubDate>Mon, 15 Feb 2016 14:51:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
