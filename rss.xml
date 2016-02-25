@@ -4,7 +4,7 @@
         <description><![CDATA[¡¡NEW SITE!!]]></description>
         <link>http://www.brufeed.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 04:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 04:30:40 GMT</lastBuildDate>
         <atom:link href="http://www.brufeed.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.brufeed.com/cb150773-edb8-4e62-9f96-75edd6eedb58/index.html</link>
             <guid isPermaLink="false">cb150773-edb8-4e62-9f96-75edd6eedb58</guid>
             <pubDate>Tue, 16 Feb 2016 01:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[THE SOUTHWEST SERIES]]></title>
+            <description><![CDATA[<article><h1>THE SOUTHWEST SERIES</h1><p>Back with the 3rd installment of the #Brüfeed #Southwest Series here at #SquawPeak in #Pheonix, #Arizona with #Chief #CanInHandMan #Nevo08. This #golden #Pilsner by #NewMexico's #MarbleBrewery proved the ultimate #trail companion with it's crisp and balanced #hopforward solid zest. This is a highly enjoyable #craftbrew from the #LandOfEnchantment that is definitely worth sharing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef74879c5831134376a1021a70d4758eaff7d4c1.jpg"></article>]]></description>
+            <link>http://www.brufeed.com/the-southwest-series/index.html</link>
+            <guid isPermaLink="false">6ffafa04-46de-41db-8283-9bb708c9fc10</guid>
+            <pubDate>Thu, 25 Feb 2016 04:30:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.brufeed.com/20bcf712-d4dc-4d14-8d5f-db5e9c676ee0/index.html</link>
             <guid isPermaLink="false">20bcf712-d4dc-4d14-8d5f-db5e9c676ee0</guid>
             <pubDate>Mon, 15 Feb 2016 15:35:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c66d7cc-c762-4364-bb15-f431c03899ca.jpg">]]></description>
-            <link>http://www.brufeed.com/ab69c37f-9b61-415d-87ed-90bc67f1b0a9/index.html</link>
-            <guid isPermaLink="false">ab69c37f-9b61-415d-87ed-90bc67f1b0a9</guid>
-            <pubDate>Mon, 15 Feb 2016 15:26:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
