@@ -1,29 +1,41 @@
-name: BRüFEED
-favicon: null
-layout_spectrum: 0.45665
-typography_spectrum: 0
 title: '¡¡NEW SITE!!'
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#383832'
+    - '#BC9066'
+    - '#15DF6E'
+    - '#6E6E6E'
+  rhythmicContrast: 0.25
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: BRüFEED
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#0f202a'
-    - '#d6d8d7'
-    - '#ad190f'
-    - '#e88f0d'
-    - '#5e6b73'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0
+layout_spectrum: 0.45665
